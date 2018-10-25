@@ -22,7 +22,7 @@ A partir de los datos proprocionados públicamente en redes sociales, en este ca
 
 Debemos mencionar que no tratamos de generalizar y no todas las cuentas en redes sociales se rigen por la  expresión lógica: 
 
-*(seguidores/amigos <= # de publicaciones) ➝ EGO*
+_**(seguidores/amigos <= # de publicaciones) ➝ EGO**_
 
 El wearable se llena de aire en proporción al "tamaño del ego" del usuario que lo esté usando. De esta forma se representa físicamente el ego (identidad virtual) y simultaneamente su repercusión en la vida real.
 
