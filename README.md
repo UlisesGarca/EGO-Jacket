@@ -12,7 +12,7 @@ Prototipo de wearable participante en [wear+ D 2018](http://e-cuerpo.org/wearabl
 Crear un wearable que represente físicamente el ego generado en redes sociales (Identidad Virtual), haciendo uso de materiales, herramientas y técnicas para que pueda ser facilmente replicable. 
 
 ## DESCRIPCIÓN GENERAL
-Se espera que este prototipo de wearable, con un enfoque artístico/crtítico, sirva de planteamiento y reflexión sobre la actual [hiperconectividad](https://en.wikipedia.org/wiki/Hyperconnectivity) en la que se encuentra la sociedad actual.
+Se espera que este prototipo de wearable, con un enfoque artístico/crtítico, sirva de planteamiento y reflexión sobre la actual [hiperconectividad](https://en.wikipedia.org/wiki/Hyperconnectivity) en la que se encuentra la sociedad.
 
 La persona alimenta a diario su **identidad virtual** en redes sociales tratando de mostrar "su mejor lado". En consecuencia se vuelve un ser **ególatra** e **hiperconectado** que se **acerca** más a "individuos virtuales" y se **aleja** de las personas que lo rodean en la vida real.
 
