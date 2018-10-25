@@ -20,12 +20,7 @@ La persona alimenta a diario su **identidad virtual** en redes sociales tratando
 
 A partir de los datos proprocionados públicamente en redes sociales, en este caso *twitter*, se tomarán como referencia el número de *followers* y número de *tweets* para representar el **ego** del usuario. 
 
-Debemos mencionar que no tratamos de generalizar y no todas las cuentas en redes sociales se rigen por la  expresión lógica: 
-
-_**(seguidores/amigos <= # de publicaciones) ➝ EGO**_
-
 El wearable se llena de aire en proporción al "tamaño del ego" del usuario que lo esté usando. De esta forma se representa físicamente el ego (identidad virtual) y simultaneamente su repercusión en la vida real.
-
 
 La persona viste **EGO Jacket** ➝ El wearable recolecta datos de redes sociales de la persona ➝ El wearable se llena de aire ➝
 Si el ego de la persona es muy grande el werable aumentara de tamaño ocasionando que la persona ocupe más espacio físico, alejando a las personas de su alrededor.
@@ -39,3 +34,8 @@ Patronaje
 Proxémica
 
 **Medidas aproximadas:** Oversize
+
+* Debemos mencionar que no tratamos de generalizar y no todas las cuentas en redes sociales se rigen por la  expresión lógica: 
+
+_**(seguidores/amigos <= # de publicaciones) ➝ EGO**_
+
