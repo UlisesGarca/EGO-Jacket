@@ -23,7 +23,7 @@ A partir de los datos proprocionados públicamente en redes sociales, en este ca
 El wearable se llena de aire en proporción al "tamaño del ego" del usuario que lo esté usando. De esta forma se representa físicamente el ego (identidad virtual) y simultaneamente su repercusión en la vida real.
 
 La persona viste **EGO Jacket** ➝ El wearable recolecta datos de redes sociales de la persona ➝ El wearable se llena de aire ➝
-Si el ego de la persona es muy grande el werable aumentara de tamaño, ocasionando que la persona ocupe más espacio físico alejando a las personas de su alrededor.
+Si el ego de la persona es muy grande el werable aumentara de tamaño, ocasionando que la persona ocupe más espacio físico y alejando a las personas de su alrededor.
 
 
 ## TECNOLOGÍAS Y TÉCNICAS EMPLEADAS
