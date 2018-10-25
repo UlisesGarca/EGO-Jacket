@@ -19,6 +19,7 @@ La persona alimenta a diario su **identidad virtual** en redes sociales tratando
 **FUNCIONAMIENTO:**
 
 A partir de los datos proprocionados públicamente en redes sociales, en este caso *twitter*, se tomarán como referencia el número de *followers* y número de *tweets* para representar el **ego** del usuario. Debemos mencionar que no tratamos de generalizar y no todas las cuentas en redes sociales se rigen por la  expresión lógica: 
+
 *(seguidores/amigos <= # de publicaciones) ➝ EGO*
 
 El wearable se llena de aire en proporción al "tamaño del ego" del usuario que lo esté usando. De esta forma se representa físicamente el ego (identidad virtual) y simultaneamente su repercusión en la vida real.
