@@ -9,7 +9,7 @@ Prototipo de wearable participante en [wear+ D 2018](http://e-cuerpo.org/wearabl
 * **Luis Antonio Ortega Martínez**
 
 ## OBJETIVOS DEL PROYECTO.
-Crear una prenda que represente físicamente el ego generado en redes sociales (Identidad Virtual), haciendo uso de materiales, herramientas y técnicas para que pueda ser facilmente replicable. 
+Crear un wearable que represente físicamente el ego generado en redes sociales (Identidad Virtual), haciendo uso de materiales, herramientas y técnicas para que pueda ser facilmente replicable. 
 
 ## DESCRIPCIÓN GENERAL
 Se espera que este prototipo de wearable, con un enfoque artístico/crtítico, sirva de planteamiento y reflexión sobre la actual [hiperconectividad](https://en.wikipedia.org/wiki/Hyperconnectivity) en la que se encuentra la sociedad actual.
