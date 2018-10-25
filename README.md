@@ -14,9 +14,9 @@ Crear una prenda que represente físicamente el ego generado en redes sociales (
 ## DESCRIPCIÓN GENERAL
 Se espera que este prototipo de wearable, con un enfoque artístico/crtítico, sirva de planteamiento y reflexión sobre la actual [hiperconectividad](https://en.wikipedia.org/wiki/Hyperconnectivity) en la que se encuentra la sociedad actual.
 
-**FUNCIONAMIENTO:**
-
 La persona alimenta a diario su **identidad virtual** en redes sociales tratando de mostrar "su mejor lado". En consecuencia se vuelve un ser **ególatra** e **hiperconectado** que se **acerca** más a "individuos virtuales" y se **aleja** de las personas que lo rodean en la vida real.
+
+**FUNCIONAMIENTO:**
 
 A partir de los datos proprocionados públicamente en redes sociales, en este caso *twitter*, se tomarán como referencia el número de *followers* y número de *tweets* para representar el **ego** del usuario. Debemos mencionar que no tratamos de generalizar y no todas las cuentas en redes sociales se rigen por la  expresión lógica: 
 *(seguidores/amigos <= # de publicaciones) ➝ EGO*
