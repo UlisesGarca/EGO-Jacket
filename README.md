@@ -27,11 +27,12 @@ Si el ego de la persona es muy grande el werable aumentara de tamaño, ocasionan
 
 
 ## TECNOLOGÍAS Y TÉCNICAS EMPLEADAS
+* Patronaje
+* Proxémica
 * Internet de las cosas
 * Diseño de interfaces electrónicas
 * Programación
-* Patronaje
-* Proxémica
+
 
 **Medidas aproximadas:** Oversize
 
